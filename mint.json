@@ -33,9 +33,9 @@
       "url": "https://mintlify.com"
     },
     {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "name": "Product updates",
+      "icon": "star",
+      "url": "https://coda.io/@paleo/product-update-blog"
     }
   ],
   "navigation": [
